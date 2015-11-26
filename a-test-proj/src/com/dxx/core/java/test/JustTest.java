@@ -14,7 +14,7 @@ import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 
 public class JustTest {
-//FASFASFSFASFASFASF
+
 	public static void main(String[] args) {
 		ok:{
 			System.out.println("dfas");

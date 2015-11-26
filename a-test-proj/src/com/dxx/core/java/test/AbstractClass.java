@@ -1,11 +1,10 @@
-package com.dxx.core.java.test;//2
+package com.dxx.core.java.test;
 
 
 //test git1
 //test git2
 //test dev git2
 //test dev git1
-//abcdeefghijklmnopqrstuvwxyz
 public abstract class AbstractClass {
 
 	protected abstract void test();
