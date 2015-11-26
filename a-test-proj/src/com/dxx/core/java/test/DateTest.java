@@ -3,7 +3,7 @@ package com.dxx.core.java.test;
 import java.util.Date;
 
 public class DateTest {
-
+//JIUZAI ZAHE LA
 	public static void main(String[] args) {
 		long timeOffset = 7*24*3600*1000;
 		Date date = new Date();
