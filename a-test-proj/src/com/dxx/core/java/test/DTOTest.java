@@ -4,7 +4,7 @@ import javax.swing.plaf.basic.BasicInternalFrameTitlePane.RestoreAction;
 
 import com.dxx.dto.SubTestDTO;
 import com.dxx.dto.TestDTO;
-
+//HEHEHEHE
 public class DTOTest {
 
 	public static void main(String[] args) {
