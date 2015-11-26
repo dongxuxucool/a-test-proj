@@ -5,6 +5,7 @@ package com.dxx.core.java.test;
 //test git2
 //test dev git2
 //test dev git1
+//abcdeefghijklmnopqrstuvwxyz
 public abstract class AbstractClass {
 
 	protected abstract void test();
