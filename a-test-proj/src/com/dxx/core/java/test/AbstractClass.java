@@ -1,5 +1,7 @@
 package com.dxx.core.java.test;
 
+
+//test git1
 public abstract class AbstractClass {
 
 	protected abstract void test();
